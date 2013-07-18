@@ -1,0 +1,9 @@
+!SESSION 2013-07-16 23:22:19.104 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\hagisan\Documents\GitHub\GomiShiwakeMeijinContentsMock
+
+!ENTRY org.eclipse.osgi 2 1 2013-07-16 23:24:31.584
+!MESSAGE NLS unused message: WhiteSpaceTabPage_try in: org.eclipse.jdt.internal.ui.preferences.formatter.FormatterMessages
